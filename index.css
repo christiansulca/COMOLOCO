@@ -1,0 +1,63 @@
+body {
+	background-color: orange;
+}
+
+p {
+	font-family: arial;
+	text-align: justify;
+	text-transform: lowercase;
+	background-color: orange;
+	color: grey;
+}
+h1 {
+	font-family: arial;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+li {
+	background-color: lightgreen;
+	list-style:none;
+	padding: 10px;
+
+	
+
+}
+
+
+h2 {
+	padding: auto;
+	/* back-ground-color: lightgreen; */
+
+	background:url("golden-gate-image.jpg") no-repeat center center fixed;
+	-webkit - background-size: cover;
+	text-align: center;
+
+	color: white;
+}
+
+.box-1 {
+	font-family: arial, verdana;
+	color: black;
+	text-align: left;
+	padding-top-bottom: 60px;
+}
+
+/* todo entre lineas es comentario */
+
+/* y lo siguiente: "<!-- esto no pero --> "" 
+solo funciona en HTML */
+
+.History {
+
+	font-family: arial, verdana;
+	font-size: 16px;
+	text-align: center;
+}
+
+.COMOLOCO {
+	font-family: arial, verdana;
+	font-size: 50px;
+	font-weight: 100;
+	text-align: center;
+}
